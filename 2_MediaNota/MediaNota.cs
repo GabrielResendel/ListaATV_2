@@ -1,4 +1,5 @@
-﻿using System;
+﻿// 2 Faça um Programa que peça 4 notas e mostre a média (10 + 10 + 10 + 10 / 4 tem que dar resultado 10).
+using System;
 using System.Globalization;
 
 namespace MediaNota
